@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501673651821",
+    "firebase_url": "https://praduate-project-default-rtdb.firebaseio.com",
+    "project_id": "praduate-project",
+    "storage_bucket": "praduate-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501673651821:android:5229a9a1a1a510d9001964",
+        "android_client_info": {
+          "package_name": "com.example.graduateproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12mJKB0AsQjhf0aT4WfA-l3xTNxUY8Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
